@@ -1,2 +1,1 @@
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"
+remote_theme: jekyll/minima
