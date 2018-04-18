@@ -1,6 +1,6 @@
 ## Examplore (CHI 2018)
 
-[Demo of Examplore](http://examplore.cs.ucla.edu:3000/)
+###[Demo](http://examplore.cs.ucla.edu:3000/)
 
 ### Video
 
