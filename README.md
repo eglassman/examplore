@@ -1,12 +1,12 @@
-## Examplore (CHI 2018)
+# Examplore (CHI 2018)
 
-###[Demo](http://examplore.cs.ucla.edu:3000/)
+## [Demo](http://examplore.cs.ucla.edu:3000/)
 
-### Video
+## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3AI5tlM37I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Citation
+## Citation
 
 ```
 @inproceedings{examplore2018,
