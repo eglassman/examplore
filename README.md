@@ -1,4 +1,4 @@
-# [Examplore Demo](http://examplore.cs.ucla.edu:3000/)
+[Examplore Demo](http://examplore.cs.ucla.edu:3000/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3AI5tlM37I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
